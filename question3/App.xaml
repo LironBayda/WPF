@@ -1,0 +1,14 @@
+﻿<Application x:Class="question3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:question3"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+		<Style x:Key="defult" TargetType="Window" >
+			<Setter   Property="FontSize" Value="20"></Setter>
+			<Setter Property="FontWeight" Value="Bold"></Setter>
+			<Setter Property="VerticalAlignment" Value="Center"></Setter>
+			<Setter Property="Height" Value="40"></Setter>
+		</Style>
+	</Application.Resources>
+</Application>

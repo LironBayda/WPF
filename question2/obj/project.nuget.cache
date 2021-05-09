@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHC3y0sPirFssAg6lmPBTzCLCi084pCepSUK77EuCrwZxvVaubtScTzAos/dnoaGP4bu4+x0k3sVMB0VhFAo9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liron\\source\\repos\\wpf_final\\question2\\question2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liron\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512"
+  ],
+  "logs": []
+}
