@@ -1,0 +1,29 @@
+﻿<Window x:Class="wpf_final.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_final"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+	
+	<StackPanel>
+		<WrapPanel>
+			<Label Content="width"></Label>
+			<Label x:Name="widthLabel"></Label>
+			
+		</WrapPanel>
+
+		<WrapPanel>
+			<Label Content="highet"></Label>
+			<Label x:Name="highetLabel"></Label>
+
+		</WrapPanel>
+
+		<WrapPanel>
+			<Label Content="text"></Label>
+			<Label x:Name="textLabel"></Label>
+
+		</WrapPanel>
+	</StackPanel>
+</Window>
